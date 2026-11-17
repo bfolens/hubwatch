@@ -1,0 +1,6 @@
+# Build output
+HubWatch/HubWatch.app/
+*.zip
+
+# macOS
+.DS_Store
